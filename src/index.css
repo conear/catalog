@@ -1,0 +1,21 @@
+body {
+  background-color: lightgrey;
+  
+}
+
+.flex {
+  display: flex;
+  padding-bottom: 30px;
+  flex-wrap: wrap;
+  
+}
+
+
+div {
+  font-family: Arial, Helvetica, sans-serif;
+  font-variant-caps: small-caps;
+}
+
+img {
+
+}
