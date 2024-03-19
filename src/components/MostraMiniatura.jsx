@@ -5,7 +5,7 @@ export const MostraMiniatura = ({produto, setProduto}) => {
 const {imgCode, description, marca} = produto;
 //console.log(setProduto);
 //const onImgClick = (e) => console.log(e);
-const title = `${description}\n${marca}`;
+const title = `${description}\n${marca}\n${imgCode}`;
 
   return (
    

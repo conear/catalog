@@ -210,20 +210,6 @@ export const produtos = [
     description: "Pendente Pequim",
   },
   {
-    imgCode: "2608",
-    type: "pendente",
-    price: "57282,8",
-    marca: "FLOS",
-    description: "Pendente Skygarden",
-  },
-  {
-    imgCode: "2609",
-    type: "pendente",
-    price: "57282,8",
-    marca: "FLOS",
-    description: "Pendente Skygarden",
-  },
-  {
     imgCode: "2611",
     type: "pendente",
     price: "10484,22",
@@ -236,20 +222,6 @@ export const produtos = [
     price: "10484,22",
     marca: "PRANDINA",
     description: "Pendente Biluna S7",
-  },
-  {
-    imgCode: "2613",
-    type: "pendente",
-    price: "consultar",
-    marca: "MOOON",
-    description: "Pendente",
-  },
-  {
-    imgCode: "2614",
-    type: "pendente",
-    price: "1350",
-    marca: "FLOS",
-    description: "Pendente Cina",
   },
   {
     imgCode: "2616",
