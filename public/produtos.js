@@ -1,4 +1,4 @@
-export const produtos = [
+window.produtos = [
   {
     imgCode: "2564",
     type: "piso",
