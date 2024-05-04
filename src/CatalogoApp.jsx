@@ -10,7 +10,7 @@ export const CatalogoApp = () => {
   const [produtos, setProdutos] = useState([]);
 
   useEffect(() => {
-    fetch('/produtos.js')
+    fetch('/prods.js')
       .then(response => response.json())
       .then(data => setProdutos(data))
       .catch(error => console.error('Erro ao carregar produtos:', error));

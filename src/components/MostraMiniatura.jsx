@@ -10,7 +10,12 @@ const title = `${description}\n${marca}\n${imgCode}`;
   return (
    
       <div>
-        <img src={`images/img_${imgCode}.webp`} alt="" title={title} onClick={() => setProduto(produto)} />
+        <img 
+          src={`images/${imgCode}`} 
+          alt="" title={title} 
+          width="150px"
+          height="200px"
+          onClick={() => setProduto(produto)} />
       </div>
     
   )
