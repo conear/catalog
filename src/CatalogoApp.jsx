@@ -10,17 +10,10 @@ export const CatalogoApp = () => {
   const [produtos, setProdutos] = useState([]);
 
   useEffect(() => {
-    const script = document.createElement('script');
-    script.src = '/produtos.js';
-    script.async = true;
-    script.onload = () => {
-      setProdutos(window.produtos);
-    };
-    document.body.appendChild(script);
-
-    return () => {
-      document.body.removeChild(script);
-    };
+    fetch('/produtos.js')
+      .then(response => response.json())
+      .then(data => setProdutos(data))
+      .catch(error => console.error('Erro ao carregar produtos:', error));
   }, []);
 
   const [produto, setProduto] = useState();
