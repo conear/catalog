@@ -9,6 +9,16 @@ body {
   flex-wrap: wrap;
   
 }
+.contenedor {
+  display: flex;
+}
+.texto {
+  flex: 1;
+}
+.texto p {
+  margin: 0;
+  padding: 5px 0;
+}
 
 
 div {
@@ -17,5 +27,6 @@ div {
 }
 
 img {
+  padding: 4px;
 
 }
