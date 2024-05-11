@@ -1,6 +1,6 @@
 [
     {
-    "imgCode": "ARANDELA_BIONDA_3771_BERTOLUCCI.webp",
+    "imgCode": "arandela_bionda_3771_bertolucci.webp",
     "type": "arandela",
     "price": "consultar",
     "marca": "bertolucci",
@@ -8,7 +8,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_MESA_URUCUM_MINI_AMARELA_BERTOLUCCI.webp",
+    "imgCode": "luminaria_mesa_urucum_mini_amarela_bertolucci.webp",
     "type": "mesa",
     "price": "1000,00",
     "marca": "bertolucci",
@@ -16,7 +16,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_MESA_URUCUM_MINI_AZUL_BERTOLUCCI.webp",
+    "imgCode": "luminaria_mesa_urucum_mini_azul_bertolucci.webp",
     "type": "mesa",
     "price": "1000,00",
     "marca": "bertolucci",
@@ -24,7 +24,7 @@
     "qt": "3"
     },
     {
-    "imgCode": "LUMINARIA_MESA_URUCUM_MINI_VERMELHA_BERTOLUCCI.webp",
+    "imgCode": "luminaria_mesa_urucum_mini_vermelha_bertolucci.webp",
     "type": "mesa",
     "price": "1000,00",
     "marca": "bertolucci",
@@ -32,7 +32,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_BIOMBO_CINZA_BERTOLUCCI.webp",
+    "imgCode": "pendente_biombo_cinza_bertolucci.webp",
     "type": "pendente",
     "price": "3500,00",
     "marca": "bertolucci",
@@ -40,7 +40,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_GONGUE_PRETO_BERTOLUCCI.webp",
+    "imgCode": "pendente_gongue_preto_bertolucci.webp",
     "type": "pendente",
     "price": "350,00",
     "marca": "bertolucci",
@@ -48,7 +48,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_MUBE_COBRE_BERTOLUCCI.webp",
+    "imgCode": "pendente_mube_cobre_bertolucci.webp",
     "type": "pendente",
     "price": "4500,00",
     "marca": "bertolucci",
@@ -56,7 +56,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_NAU_PEQUENO_BERTOLUCCI.webp",
+    "imgCode": "pendente_nau_pequeno_bertolucci.webp",
     "type": "pendente",
     "price": "1500,00",
     "marca": "bertolucci",
@@ -64,7 +64,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_PEQUIM_COBRE_BERTOLUCCI.webp",
+    "imgCode": "pendente_pequim_cobre_bertolucci.webp",
     "type": "pendente",
     "price": "1500,00",
     "marca": "bertolucci",
@@ -72,7 +72,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "PENDENTE_POLCA_BRANCO_BERTOLUCCI.webp",
+    "imgCode": "pendente_polca_branco_bertolucci.webp",
     "type": "pendente",
     "price": "500,00",
     "marca": "bertolucci",
@@ -80,7 +80,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_POLCA_VERMELHA_BERTOLUCCI.webp",
+    "imgCode": "pendente_polca_vermelha_bertolucci.webp",
     "type": "pendente",
     "price": "500,00",
     "marca": "bertolucci",
@@ -88,7 +88,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_UNIVERSO_LATÃO_DOURADO_BERTOLUCCI.webp",
+    "imgCode": "pendente_universo_latao_dourado_bertolucci.webp",
     "type": "pendente",
     "price": "3500,00",
     "marca": "bertolucci",
@@ -96,7 +96,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_URUCUM_BRONZE_BERTOLUCCI.webp",
+    "imgCode": "pendente_urucum_bronze_bertolucci.webp",
     "type": "pendente",
     "price": "700,00",
     "marca": "bertolucci",
@@ -104,7 +104,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_URUCUM_COBRE_BERTOLUCCI.webp",
+    "imgCode": "pendente_urucum_cobre_bertolucci.webp",
     "type": "pendente",
     "price": "1500,00",
     "marca": "bertolucci",
@@ -112,7 +112,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_MUBE_COBRE_BERTOLUCCI.webp",
+    "imgCode": "plafon_mube_cobre_bertolucci.webp",
     "type": "pendente",
     "price": "3500,00",
     "marca": "bertolucci",
@@ -120,7 +120,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_VIDRO_1_X100W_ELLA.webp",
+    "imgCode": "plafon_vidro_1_x100w_ella.webp",
     "type": "plafon",
     "price": "consultar",
     "marca": "ella",
@@ -128,7 +128,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "PENDENTE_LOTTO_FABIAN.webp",
+    "imgCode": "pendente_lotto_fabian.webp",
     "type": "pendente",
     "price": "1500,00",
     "marca": "fabian",
@@ -136,7 +136,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_VELICA_FLOS.webp",
+    "imgCode": "pendente_velica_flos.webp",
     "type": "pendente",
     "price": "650,00",
     "marca": "flos",
@@ -144,7 +144,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_PLAFON_TWENTY_FIVE_AR111_PRATA_ILUMINAR.webp",
+    "imgCode": "arandela_plafon_twenty_five_ar111_prata_iluminar.webp",
     "type": "arandela",
     "price": "1293,00",
     "marca": "iluminar",
@@ -152,7 +152,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_PLAFON_TWENTY_FIVE_HALOGENA_PRATA_ILUMINAR.webp",
+    "imgCode": "arandela_plafon_twenty_five_halogena_prata_iluminar.webp",
     "type": "arandela",
     "price": "1382,00",
     "marca": "iluminar",
@@ -160,7 +160,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_THALES_CINZA_2024.03_ILUMINAR.webp",
+    "imgCode": "arandela_thales_cinza_2024_03_iluminar.webp",
     "type": "arandela",
     "price": "409,00",
     "marca": "iluminar",
@@ -168,7 +168,7 @@
     "qt": "3"
     },
     {
-    "imgCode": "BALIZADOR_TRACE_CINZA_ILUMINAR.webp",
+    "imgCode": "balizador_trace_cinza_iluminar.webp",
     "type": "balizador",
     "price": "650,00",
     "marca": "iluminar",
@@ -176,7 +176,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "BALIZADOR_TRACE_PRETO_ILUMINAR.webp",
+    "imgCode": "balizador_trace_preto_iluminar.webp",
     "type": "balizador",
     "price": "650,00",
     "marca": "iluminar",
@@ -184,7 +184,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "EMBUTIDO_CHIP_1156.01_ILUMINAR.webp",
+    "imgCode": "embutido_chip_1156_01_iluminar.webp",
     "type": "embutido",
     "price": "109,00",
     "marca": "iluminar",
@@ -192,7 +192,7 @@
     "qt": "6"
     },
     {
-    "imgCode": "EMBUTIDO_CHIP_1156.02_ILUMINAR.webp",
+    "imgCode": "embutido_chip_1156_02_iluminar.webp",
     "type": "embutido",
     "price": "109,00",
     "marca": "iluminar",
@@ -200,7 +200,7 @@
     "qt": "8"
     },
     {
-    "imgCode": "FINCO_LED_35MM_PRETO_ILUMINAR.webp",
+    "imgCode": "finco_led_35mm_preto_iluminar.webp",
     "type": "balizador",
     "price": "consultar",
     "marca": "iluminar",
@@ -208,7 +208,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "FINCO_SOLO_3_FOCO_PRETO_ILUMINAR.webp",
+    "imgCode": "finco_solo_3_foco_preto_iluminar.webp",
     "type": "balizador",
     "price": "consultar",
     "marca": "iluminar",
@@ -216,7 +216,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_MESA_XL_BRANCA_ILUMINAR.webp",
+    "imgCode": "luminaria_mesa_xl_branca_iluminar.webp",
     "type": "mesa",
     "price": "consultar",
     "marca": "iluminar",
@@ -224,7 +224,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_MESA_XL_BRONZE_ILUMINAR.webp",
+    "imgCode": "luminaria_mesa_xl_bronze_iluminar.webp",
     "type": "mesa",
     "price": "consultar",
     "marca": "iluminar",
@@ -232,7 +232,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_MESA_XL_LARANJA_ILUMINAR.webp",
+    "imgCode": "luminaria_mesa_xl_laranja_iluminar.webp",
     "type": "mesa",
     "price": "consultar",
     "marca": "iluminar",
@@ -240,7 +240,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_BOB_TUBO_C_ACRILICO_PRETO_ILUMINAR.webp",
+    "imgCode": "pendente_bob_tubo_c_acrilico_preto_iluminar.webp",
     "type": "pendente",
     "price": "1193,00",
     "marca": "iluminar",
@@ -248,7 +248,7 @@
     "qt": "4"
     },
     {
-    "imgCode": "PENDENTE_BOB_TUBO_C4_UNIDADE_ILUMINAR.webp",
+    "imgCode": "pendente_bob_tubo_c4_unidade_iluminar.webp",
     "type": "pendente",
     "price": "consultar",
     "marca": "iluminar",
@@ -256,7 +256,7 @@
     "qt": "4"
     },
     {
-    "imgCode": "PENDENTE_BOB_TUBO_PRETO_ILUMINAR.webp",
+    "imgCode": "pendente_bob_tubo_preto_iluminar.webp",
     "type": "pendente",
     "price": "926,58",
     "marca": "iluminar",
@@ -264,7 +264,7 @@
     "qt": "18"
     },
     {
-    "imgCode": "PENDENTE_XL_BRANCO_ILUMINAR.webp",
+    "imgCode": "pendente_xl_branco_iluminar.webp",
     "type": "pendente",
     "price": "consultar",
     "marca": "iluminar",
@@ -272,7 +272,7 @@
     "qt": "4"
     },
     {
-    "imgCode": "PENDENTE_XL_COBRE_C_ACRILICO_ILUMINAR.webp",
+    "imgCode": "pendente_xl_cobre_c_acrilico_iluminar.webp",
     "type": "pendente",
     "price": "consultar",
     "marca": "iluminar",
@@ -280,7 +280,7 @@
     "qt": "3"
     },
     {
-    "imgCode": "PLAFON_ARANDELA_C_HASTE_TWENTY_FIVE_PRETA_2XAR70_ILUMINAR.webp",
+    "imgCode": "plafon_arandela_c_haste_twenty_five_preta_2xar70_iluminar.webp",
     "type": "plafon",
     "price": "1500,00",
     "marca": "iluminar",
@@ -288,7 +288,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_ENNA_2X50W_BRANCO_ILUMINAR.webp",
+    "imgCode": "plafon_enna_2x50w_branco_iluminar.webp",
     "type": "plafon",
     "price": "719,00",
     "marca": "iluminar",
@@ -296,7 +296,7 @@
     "qt": "3"
     },
     {
-    "imgCode": "PLAFON_ENNA_2X50W_PRETO_ILUMINAR.webp",
+    "imgCode": "plafon_enna_2x50w_preto_iluminar.webp",
     "type": "plafon",
     "price": "719,00",
     "marca": "iluminar",
@@ -304,7 +304,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_ENNA_RETANGULAR_4X50W_PRETO_ILUMINAR.webp",
+    "imgCode": "plafon_enna_retangular_4x50w_preto_iluminar.webp",
     "type": "plafon",
     "price": "1070,00",
     "marca": "iluminar",
@@ -312,7 +312,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_GEO_10X10_ILUMINAR.webp",
+    "imgCode": "plafon_geo_10x10_iluminar.webp",
     "type": "plafon",
     "price": "531,00",
     "marca": "iluminar",
@@ -320,7 +320,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "PLAFON_GEO_10X10X05_ILUMINAR.webp",
+    "imgCode": "plafon_geo_10x10x05_iluminar.webp",
     "type": "plafon",
     "price": "537,00",
     "marca": "iluminar",
@@ -328,7 +328,7 @@
     "qt": "7"
     },
     {
-    "imgCode": "PLAFON_GEO_2797_01_ILUMINAR.webp",
+    "imgCode": "plafon_geo_2797_01_iluminar.webp",
     "type": "plafon",
     "price": "821,00",
     "marca": "iluminar",
@@ -336,7 +336,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "PLAFON_MAMBO_PRETO_ILUMINAR.webp",
+    "imgCode": "plafon_mambo_preto_iluminar.webp",
     "type": "plafon",
     "price": "350,00",
     "marca": "iluminar",
@@ -344,7 +344,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_STEP_4211.02_ILUMINAR.webp",
+    "imgCode": "plafon_step_4211_02_iluminar.webp",
     "type": "plafon",
     "price": "500,00",
     "marca": "iluminar",
@@ -352,7 +352,7 @@
     "qt": "8"
     },
     {
-    "imgCode": "PLAFON_STEP_4X50W_BRANCO_ILUMINAR.webp",
+    "imgCode": "plafon_step_4x50w_branco_iluminar.webp",
     "type": "plafon",
     "price": "consultar",
     "marca": "iluminar",
@@ -360,7 +360,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_STEP_4X50W_PRETO_ILUMINAR.webp",
+    "imgCode": "plafon_step_4x50w_preto_iluminar.webp",
     "type": "plafon",
     "price": "consultar",
     "marca": "iluminar",
@@ -368,7 +368,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "SOLO_EMBUTIDO_ART._LED_PRETO_ILUMINAR.webp",
+    "imgCode": "solo_embutido_art_led_preto_iluminar.webp",
     "type": 0,
     "price": "consultar",
     "marca": "iluminar",
@@ -376,7 +376,7 @@
     "qt": "5"
     },
     {
-    "imgCode": "SPOT_MAX_BRANCO_PAR_30_ILUMINAR.webp",
+    "imgCode": "spot_max_branco_par_30_iluminar.webp",
     "type": "projetor",
     "price": "596,00",
     "marca": "iluminar",
@@ -384,7 +384,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "SPOT_TUBE_CINZA_ILUMINAR.webp",
+    "imgCode": "spot_tube_cinza_iluminar.webp",
     "type": "projetor",
     "price": "1452,00",
     "marca": "iluminar",
@@ -392,7 +392,7 @@
     "qt": "4"
     },
     {
-    "imgCode": "SPOT_TWENTY_FIVE_1558.01_ILUMINAR.webp",
+    "imgCode": "spot_twenty_five_1558_01_iluminar.webp",
     "type": "projetor",
     "price": "512,00",
     "marca": "iluminar",
@@ -400,7 +400,7 @@
     "qt": "9"
     },
     {
-    "imgCode": "SPOT_TWENTY_FIVE_AR111_PRATA_ILUMINAR.webp",
+    "imgCode": "spot_twenty_five_ar111_prata_iluminar.webp",
     "type": "projetor",
     "price": "1475,00",
     "marca": "iluminar",
@@ -408,7 +408,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_INGO_MAURER.webp",
+    "imgCode": "arandela_ingo_maurer.webp",
     "type": "arandela",
     "price": "900,00",
     "marca": "ingo maurer",
@@ -416,7 +416,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_ATOOL_INGO_MAURER.webp",
+    "imgCode": "pendente_atool_ingo_maurer.webp",
     "type": "pendente",
     "price": "5500,00",
     "marca": "ingo maurer",
@@ -424,7 +424,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_FLOOP_CRISTALLO_KUNDALINI.webp",
+    "imgCode": "pendente_floop_cristallo_kundalini.webp",
     "type": "pendente",
     "price": "4500,00",
     "marca": "kundalini",
@@ -432,7 +432,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_POP_CROMADA_MARSET.webp",
+    "imgCode": "arandela_pop_cromada_marset.webp",
     "type": "arandela",
     "price": "1500,00",
     "marca": "marset",
@@ -440,7 +440,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "BALIZADOR_AMANITA_MARSET.webp",
+    "imgCode": "balizador_amanita_marset.webp",
     "type": "balizador",
     "price": "500,00",
     "marca": "marset",
@@ -448,7 +448,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_CHÃO_NOLITA_PRETA_MARSET.webp",
+    "imgCode": "luminaria_chao_nolita_preta_marset.webp",
     "type": "piso",
     "price": "7500,00",
     "marca": "marset",
@@ -456,7 +456,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_MERCER_MARSET.webp",
+    "imgCode": "pendente_mercer_marset.webp",
     "type": "pendente",
     "price": "6000,00",
     "marca": "marset",
@@ -464,7 +464,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_NOLITA_PRETO_MARSET.webp",
+    "imgCode": "pendente_nolita_preto_marset.webp",
     "type": "pendente",
     "price": "5600,00",
     "marca": "marset",
@@ -472,7 +472,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_NOLITA_TRANSPARENTE_MARSET.webp",
+    "imgCode": "pendente_nolita_transparente_marset.webp",
     "type": "pendente",
     "price": "5600,00",
     "marca": "marset",
@@ -480,7 +480,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_OLIVIA_BIANCO_MARSET.webp",
+    "imgCode": "pendente_olivia_bianco_marset.webp",
     "type": "pendente",
     "price": "3500,00",
     "marca": "marset",
@@ -488,7 +488,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_LUX_MELTEMI.webp",
+    "imgCode": "arandela_lux_meltemi.webp",
     "type": "arandela",
     "price": "800,00",
     "marca": "meltemi",
@@ -496,7 +496,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_PANNA_PRETA_MELTEMI.webp",
+    "imgCode": "arandela_panna_preta_meltemi.webp",
     "type": "arandela",
     "price": "800,00",
     "marca": "meltemi",
@@ -504,7 +504,7 @@
     "qt": "4"
     },
     {
-    "imgCode": "PLAFON_MINI_JESOLO_E14_MELTEMI.webp",
+    "imgCode": "plafon_mini_jesolo_e14_meltemi.webp",
     "type": "plafon",
     "price": "1500,00",
     "marca": "meltemi",
@@ -512,7 +512,7 @@
     "qt": "7"
     },
     {
-    "imgCode": "LUMINARIA_PISO_2X50W_364105_MODULAR.webp",
+    "imgCode": "luminaria_piso_2x50w_364105_modular.webp",
     "type": "piso",
     "price": "750,00",
     "marca": "modular",
@@ -520,7 +520,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_ATON_QUAD_4XAR111_MODULAR.webp",
+    "imgCode": "pendente_aton_quad_4xar111_modular.webp",
     "type": "pendente",
     "price": "900,00",
     "marca": "modular",
@@ -528,7 +528,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_ARA_NEMO.webp",
+    "imgCode": "arandela_ara_nemo.webp",
     "type": "arandela",
     "price": "500,00",
     "marca": "nemo",
@@ -536,7 +536,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PLAFON_EXT_REGULUS_TIGE_FLOUR_NEMO.webp",
+    "imgCode": "plafon_ext_regulus_tige_flour_nemo.webp",
     "type": "plafon",
     "price": "consultar",
     "marca": "nemo",
@@ -544,7 +544,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_LIGHT_VOLUME_PRANDINA.webp",
+    "imgCode": "arandela_light_volume_prandina.webp",
     "type": "arandela",
     "price": "2500,00",
     "marca": "prandina",
@@ -552,7 +552,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_LIGHT_VOLUME_F33_PRANDINA.webp",
+    "imgCode": "luminaria_light_volume_f33_prandina.webp",
     "type": "piso",
     "price": "4500,00",
     "marca": "prandina",
@@ -560,7 +560,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_LIGHT_VOLUME_T22_PRANDINA.webp",
+    "imgCode": "luminaria_light_volume_t22_prandina.webp",
     "type": "mesa",
     "price": "6000,00",
     "marca": "prandina",
@@ -568,7 +568,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_BILUNA_S7_NERO_PRANDINA.webp",
+    "imgCode": "pendente_biluna_s7_nero_prandina.webp",
     "type": "pendente",
     "price": "6500,00",
     "marca": "prandina",
@@ -576,7 +576,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_GURU_S3_WHITE_PRANDINA.webp",
+    "imgCode": "pendente_guru_s3_white_prandina.webp",
     "type": "pendente",
     "price": "4500,00",
     "marca": "prandina",
@@ -584,7 +584,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_LIGHT_VOLUME_S33_PRANDINA.webp",
+    "imgCode": "pendente_light_volume_s33_prandina.webp",
     "type": "pendente",
     "price": "6500,00",
     "marca": "prandina",
@@ -592,7 +592,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_NOTTE_PE_S9_BIANCO_PRANDINA.webp",
+    "imgCode": "pendente_notte_pe_s9_bianco_prandina.webp",
     "type": "pendente",
     "price": "8500,00",
     "marca": "prandina",
@@ -600,7 +600,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_NOTTE_PE_S9_PRETO_PRANDINA.webp",
+    "imgCode": "pendente_notte_pe_s9_preto_prandina.webp",
     "type": "pendente",
     "price": "8500,00",
     "marca": "prandina",
@@ -608,7 +608,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_NOTTE_S3_BLACKGOLD_LEAF_S_CANOPLA_PRANDINA.webp",
+    "imgCode": "pendente_notte_s3_blackgold_leaf_s_canopla_prandina.webp",
     "type": "pendente",
     "price": "4500,00",
     "marca": "prandina",
@@ -616,7 +616,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_PRETO_MADEIRA_SECTO.webp",
+    "imgCode": "pendente_preto_madeira_secto.webp",
     "type": "pendente",
     "price": "consultar",
     "marca": "secto",
@@ -624,7 +624,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_PUNCTO_4203_SECTO.webp",
+    "imgCode": "pendente_puncto_4203_secto.webp",
     "type": "pendente",
     "price": "2800,00",
     "marca": "secto",
@@ -632,7 +632,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_SWING_VIBIA.webp",
+    "imgCode": "arandela_swing_vibia.webp",
     "type": "arandela",
     "price": "1500,00",
     "marca": "vibia",
@@ -640,7 +640,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_BRISA_VIBIA.webp",
+    "imgCode": "luminaria_brisa_vibia.webp",
     "type": "mesa",
     "price": "3500,00",
     "marca": "vibia",
@@ -648,7 +648,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_NARCISO_COLOR.webp",
+    "imgCode": "arandela_narciso_color.webp",
     "type": "arandela",
     "price": "consultar",
     "marca": "",
@@ -656,7 +656,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "ARANDELA_POLIPO_AZ_VD.webp",
+    "imgCode": "arandela_polipo_az_vd.webp",
     "type": "arandela",
     "price": "1500,00",
     "marca": "",
@@ -664,7 +664,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "COLUNA_PISO_POLICARBONADO_OPACO.webp",
+    "imgCode": "coluna_piso_policarbonado_opaco.webp",
     "type": "piso",
     "price": "2000,00",
     "marca": "",
@@ -672,7 +672,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "EMBUTIDO_QUADRADO_BRANCO_AR70_240101124.webp",
+    "imgCode": "embutido_quadrado_branco_ar70_240101124.webp",
     "type": "embutido",
     "price": "consultar",
     "marca": "",
@@ -680,7 +680,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "EMBUTIDO_QUADRADO_BRANCO_PAR16_240101123.webp",
+    "imgCode": "embutido_quadrado_branco_par16_240101123.webp",
     "type": "embutido",
     "price": "consultar",
     "marca": "",
@@ -688,7 +688,7 @@
     "qt": "2"
     },
     {
-    "imgCode": "PENDENTE_CIMENTO_MEDIO_4661.webp",
+    "imgCode": "pendente_cimento_medio_4661.webp",
     "type": "pendente",
     "price": "consultar",
     "marca": "",
@@ -696,7 +696,7 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_CIMENTO_PEQUENO_4660.webp",
+    "imgCode": "pendente_cimento_pequeno_4660.webp",
     "type": "pendente",
     "price": "consultar",
     "marca": "",
