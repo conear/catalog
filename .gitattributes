@@ -1,0 +1,19 @@
+# Configuração padrão
+* text=auto
+
+# Arquivos cujos fins de linha devem sempre ser convertidos para o padrão do
+# sistema em uso
+*.c text
+*.h text
+
+# Arquivos cujos fins de linha devem sempre ser CRLF (padrão do Windows)
+*.bat text eol=crlf
+
+# Arquivos cujos fins de linha devem sempre ser LF (padrão do Unix, Linux e Mac
+# OS X)
+*.sh text eol=lf
+
+# Arquivos binários que não devem ser modificados
+*.png binary
+*.jpg binary
+*.webp binary
