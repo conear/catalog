@@ -1,29 +1,5 @@
 [
     {
-    "imgCode": "PENDENTE_PUNCTO_4203_SECTO.webp",
-    "type": "pendente",
-    "price": "consultar",
-    "marca": "secto",
-    "description": "PENDENTE PUNCTO 4203",
-    "qt": "1"
-    },
-    {
-    "imgCode": "EMBUTIDO_QUADRADO_BRANCO_PAR16_240101123.webp",
-    "type": "embutido",
-    "price": "consultar",
-    "marca": "",
-    "description": "EMBUTIDO QUADRADO BRANCO PAR16 240101123",
-    "qt": "2"
-    },
-    {
-    "imgCode": "EMBUTIDO_QUADRADO_BRANCO_AR70_240101124.webp",
-    "type": "embutido",
-    "price": "consultar",
-    "marca": "",
-    "description": "EMBUTIDO QUADRADO BRANCO AR70 240101124",
-    "qt": "1"
-    },
-    {
     "imgCode": "ARANDELA_BIONDA_3771_BERTOLUCCI.webp",
     "type": "arandela",
     "price": "consultar",
@@ -160,6 +136,38 @@
     "qt": "1"
     },
     {
+    "imgCode": "PENDENTE_VELICA_FLOS.webp",
+    "type": "pendente",
+    "price": "650,00",
+    "marca": "flos",
+    "description": "PENDENTE VELICA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "ARANDELA_PLAFON_TWENTY_FIVE_AR111_PRATA_ILUMINAR.webp",
+    "type": "arandela",
+    "price": "1293,00",
+    "marca": "iluminar",
+    "description": "ARANDELA PLAFON TWENTY FIVE AR111 PRATA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "ARANDELA_PLAFON_TWENTY_FIVE_HALOGENA_PRATA_ILUMINAR.webp",
+    "type": "arandela",
+    "price": "1382,00",
+    "marca": "iluminar",
+    "description": "ARANDELA PLAFON TWENTY FIVE HALOGENA PRATA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "ARANDELA_THALES_CINZA_2024.03_ILUMINAR.webp",
+    "type": "arandela",
+    "price": "409,00",
+    "marca": "iluminar",
+    "description": "ARANDELA THALES CINZA 2024.03",
+    "qt": "3"
+    },
+    {
     "imgCode": "BALIZADOR_TRACE_CINZA_ILUMINAR.webp",
     "type": "balizador",
     "price": "650,00",
@@ -176,8 +184,24 @@
     "qt": "2"
     },
     {
+    "imgCode": "EMBUTIDO_CHIP_1156.01_ILUMINAR.webp",
+    "type": "embutido",
+    "price": "109,00",
+    "marca": "iluminar",
+    "description": "EMBUTIDO CHIP 1156.01",
+    "qt": "6"
+    },
+    {
+    "imgCode": "EMBUTIDO_CHIP_1156.02_ILUMINAR.webp",
+    "type": "embutido",
+    "price": "109,00",
+    "marca": "iluminar",
+    "description": "EMBUTIDO CHIP 1156.02",
+    "qt": "8"
+    },
+    {
     "imgCode": "FINCO_LED_35MM_PRETO_ILUMINAR.webp",
-    "type": 0,
+    "type": "balizador",
     "price": "consultar",
     "marca": "iluminar",
     "description": "FINCO LED 35MM PRETO",
@@ -185,10 +209,106 @@
     },
     {
     "imgCode": "FINCO_SOLO_3_FOCO_PRETO_ILUMINAR.webp",
-    "type": 0,
+    "type": "balizador",
     "price": "consultar",
     "marca": "iluminar",
     "description": "FINCO SOLO 3 FOCO PRETO",
+    "qt": "1"
+    },
+    {
+    "imgCode": "LUMINARIA_MESA_XL_BRANCA_ILUMINAR.webp",
+    "type": "mesa",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "LUMINARIA MESA XL BRANCA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "LUMINARIA_MESA_XL_BRONZE_ILUMINAR.webp",
+    "type": "mesa",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "LUMINARIA MESA XL BRONZE",
+    "qt": "1"
+    },
+    {
+    "imgCode": "LUMINARIA_MESA_XL_LARANJA_ILUMINAR.webp",
+    "type": "mesa",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "LUMINARIA MESA XL LARANJA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "PENDENTE_BOB_TUBO_C_ACRILICO_PRETO_ILUMINAR.webp",
+    "type": "pendente",
+    "price": "1193,00",
+    "marca": "iluminar",
+    "description": "PENDENTE BOB TUBO C/ ACRILICO PRETO",
+    "qt": "4"
+    },
+    {
+    "imgCode": "PENDENTE_BOB_TUBO_C4_UNIDADE_ILUMINAR.webp",
+    "type": "pendente",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PENDENTE BOB TUBO C/4 UNIDADE",
+    "qt": "4"
+    },
+    {
+    "imgCode": "PENDENTE_BOB_TUBO_PRETO_ILUMINAR.webp",
+    "type": "pendente",
+    "price": "926,58",
+    "marca": "iluminar",
+    "description": "PENDENTE BOB TUBO PRETO",
+    "qt": "18"
+    },
+    {
+    "imgCode": "PENDENTE_XL_BRANCO_ILUMINAR.webp",
+    "type": "pendente",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PENDENTE XL BRANCO",
+    "qt": "4"
+    },
+    {
+    "imgCode": "PENDENTE_XL_COBRE_C_ACRILICO_ILUMINAR.webp",
+    "type": "pendente",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PENDENTE XL COBRE C ACRILICO",
+    "qt": "3"
+    },
+    {
+    "imgCode": "PLAFON_ARANDELA_C_HASTE_TWENTY_FIVE_PRETA_2XAR70_ILUMINAR.webp",
+    "type": "plafon",
+    "price": "1500,00",
+    "marca": "iluminar",
+    "description": "PLAFON /ARANDELA C HASTE TWENTY FIVE PRETA 2XAR70",
+    "qt": "1"
+    },
+    {
+    "imgCode": "PLAFON_ENNA_2X50W_BRANCO_ILUMINAR.webp",
+    "type": "plafon",
+    "price": "719,00",
+    "marca": "iluminar",
+    "description": "PLAFON ENNA 2X50W BRANCO",
+    "qt": "3"
+    },
+    {
+    "imgCode": "PLAFON_ENNA_2X50W_PRETO_ILUMINAR.webp",
+    "type": "plafon",
+    "price": "719,00",
+    "marca": "iluminar",
+    "description": "PLAFON ENNA 2X50W PRETO",
+    "qt": "1"
+    },
+    {
+    "imgCode": "PLAFON_ENNA_RETANGULAR_4X50W_PRETO_ILUMINAR.webp",
+    "type": "plafon",
+    "price": "1070,00",
+    "marca": "iluminar",
+    "description": "PLAFON ENNA RETANGULAR 4X50W PRETO",
     "qt": "1"
     },
     {
@@ -224,6 +344,30 @@
     "qt": "1"
     },
     {
+    "imgCode": "PLAFON_STEP_4211.02_ILUMINAR.webp",
+    "type": "plafon",
+    "price": "500,00",
+    "marca": "iluminar",
+    "description": "PLAFON STEP 4211.02",
+    "qt": "8"
+    },
+    {
+    "imgCode": "PLAFON_STEP_4X50W_BRANCO_ILUMINAR.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PLAFON STEP 4X50W BRANCO",
+    "qt": "1"
+    },
+    {
+    "imgCode": "PLAFON_STEP_4X50W_PRETO_ILUMINAR.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PLAFON STEP 4X50W PRETO",
+    "qt": "1"
+    },
+    {
     "imgCode": "SOLO_EMBUTIDO_ART._LED_PRETO_ILUMINAR.webp",
     "type": 0,
     "price": "consultar",
@@ -234,9 +378,41 @@
     {
     "imgCode": "SPOT_MAX_BRANCO_PAR_30_ILUMINAR.webp",
     "type": "projetor",
-    "price": "#N/D",
+    "price": "596,00",
     "marca": "iluminar",
     "description": "SPOT MAX BRANCO PAR 30",
+    "qt": "1"
+    },
+    {
+    "imgCode": "SPOT_TUBE_CINZA_ILUMINAR.webp",
+    "type": "projetor",
+    "price": "1452,00",
+    "marca": "iluminar",
+    "description": "SPOT TUBE CINZA",
+    "qt": "4"
+    },
+    {
+    "imgCode": "SPOT_TWENTY_FIVE_1558.01_ILUMINAR.webp",
+    "type": "projetor",
+    "price": "512,00",
+    "marca": "iluminar",
+    "description": "SPOT TWENTY FIVE 1558.01",
+    "qt": "9"
+    },
+    {
+    "imgCode": "SPOT_TWENTY_FIVE_AR111_PRATA_ILUMINAR.webp",
+    "type": "projetor",
+    "price": "1475,00",
+    "marca": "iluminar",
+    "description": "SPOT TWENTY FIVE AR111 PRATA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "ARANDELA_INGO_MAURER.webp",
+    "type": "arandela",
+    "price": "900,00",
+    "marca": "ingo maurer",
+    "description": "ARANDELA",
     "qt": "1"
     },
     {
@@ -298,7 +474,7 @@
     {
     "imgCode": "PENDENTE_NOLITA_TRANSPARENTE_MARSET.webp",
     "type": "pendente",
-    "price": "#N/D",
+    "price": "5600,00",
     "marca": "marset",
     "description": "PENDENTE NOLITA TRANSPARENTE",
     "qt": "1"
@@ -336,19 +512,11 @@
     "qt": "7"
     },
     {
-    "imgCode": "ARANDELA_ARA_NEMO.webp",
-    "type": "arandela",
-    "price": "500,00",
-    "marca": "nemo",
-    "description": "ARANDELA ARA",
-    "qt": "1"
-    },
-    {
-    "imgCode": "PLAFON_EXT_REGULUS_TIGE_FLOUR_NEMO.webp",
-    "type": "plafon",
-    "price": "???",
-    "marca": "nemo",
-    "description": "PLAFON EXT REGULUS TIGE FLOUR",
+    "imgCode": "LUMINARIA_PISO_2X50W_364105_MODULAR.webp",
+    "type": "piso",
+    "price": "750,00",
+    "marca": "modular",
+    "description": "LUMINARIA PISO 2X50W  364105",
     "qt": "1"
     },
     {
@@ -360,11 +528,19 @@
     "qt": "1"
     },
     {
-    "imgCode": "LUMINARIA_PISO_2X50W_364105_MODULAR.webp",
-    "type": "piso",
-    "price": "#N/D",
-    "marca": "modular",
-    "description": "LUMINARIA PISO 2X50W  364105",
+    "imgCode": "ARANDELA_ARA_NEMO.webp",
+    "type": "arandela",
+    "price": "500,00",
+    "marca": "nemo",
+    "description": "ARANDELA ARA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "PLAFON_EXT_REGULUS_TIGE_FLOUR_NEMO.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "nemo",
+    "description": "PLAFON EXT REGULUS TIGE FLOUR",
     "qt": "1"
     },
     {
@@ -385,7 +561,7 @@
     },
     {
     "imgCode": "LUMINARIA_LIGHT_VOLUME_T22_PRANDINA.webp",
-    "type": 0,
+    "type": "mesa",
     "price": "6000,00",
     "marca": "prandina",
     "description": "LUMINARIA LIGHT VOLUME T22",
@@ -432,11 +608,27 @@
     "qt": "1"
     },
     {
-    "imgCode": "PENDENTE_NOTTE_S3_BLACK_GOLD_LEAF_S__CANOPLA_PRANDINA.webp",
+    "imgCode": "PENDENTE_NOTTE_S3_BLACKGOLD_LEAF_S_CANOPLA_PRANDINA.webp",
     "type": "pendente",
     "price": "4500,00",
     "marca": "prandina",
     "description": "PENDENTE NOTTE S3 BLACK/GOLD LEAF S/ CANOPLA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "PENDENTE_PRETO_MADEIRA_SECTO.webp",
+    "type": "pendente",
+    "price": "consultar",
+    "marca": "secto",
+    "description": "PENDENTE PRETO MADEIRA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "PENDENTE_PUNCTO_4203_SECTO.webp",
+    "type": "pendente",
+    "price": "2800,00",
+    "marca": "secto",
+    "description": "PENDENTE PUNCTO 4203",
     "qt": "1"
     },
     {
@@ -449,7 +641,7 @@
     },
     {
     "imgCode": "LUMINARIA_BRISA_VIBIA.webp",
-    "type": 0,
+    "type": "mesa",
     "price": "3500,00",
     "marca": "vibia",
     "description": "LUMINARIA BRISA",
@@ -466,7 +658,7 @@
     {
     "imgCode": "ARANDELA_POLIPO_AZ_VD.webp",
     "type": "arandela",
-    "price": "#N/D",
+    "price": "1500,00",
     "marca": "",
     "description": "ARANDELA POLIPO AZ VD",
     "qt": "2"
@@ -477,6 +669,22 @@
     "price": "2000,00",
     "marca": "",
     "description": "COLUNA PISO POLICARBONADO OPACO",
+    "qt": "2"
+    },
+    {
+    "imgCode": "EMBUTIDO_QUADRADO_BRANCO_AR70_240101124.webp",
+    "type": "embutido",
+    "price": "consultar",
+    "marca": "",
+    "description": "EMBUTIDO QUADRADO BRANCO AR70 240101124",
+    "qt": "1"
+    },
+    {
+    "imgCode": "EMBUTIDO_QUADRADO_BRANCO_PAR16_240101123.webp",
+    "type": "embutido",
+    "price": "consultar",
+    "marca": "",
+    "description": "EMBUTIDO QUADRADO BRANCO PAR16 240101123",
     "qt": "2"
     },
     {
@@ -494,13 +702,5 @@
     "marca": "",
     "description": "PENDENTE CIMENTO PEQUENO 4660",
     "qt": "2"
-    },
-    {
-    "imgCode": "PENDENTE_PRETO_MADEIRA_SECTO.webp",
-    "type": "pendente",
-    "price": "#N/D",
-    "marca": "secto",
-    "description": "PENDENTE PRETO MADEIRA",
-    "qt": "1"
     }
     ]
