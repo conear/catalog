@@ -1,5 +1,29 @@
 [
     {
+    "imgCode": "embutido_35w_orientavel_150100040.webp",
+    "type": "embutido",
+    "price": "consultar",
+    "marca": "",
+    "description": "EMBUTIDO 35W ORIENTAVEL 150100040",
+    "qt": "33"
+    },
+    {
+    "imgCode": "embutido_35w_orientavel_preto_150100040.webp",
+    "type": "embutido",
+    "price": "consultar",
+    "marca": "",
+    "description": "EMBUTIDO 35W ORIENTAVEL PRETO 150100040",
+    "qt": "16"
+    },
+    {
+    "imgCode": "embutido_50w_orientavel_150100050.webp",
+    "type": "embutido",
+    "price": "consultar",
+    "marca": "",
+    "description": "EMBUTIDO 50W ORIENTAVEL 150100050",
+    "qt": "12"
+    },
+    {
     "imgCode": "arandela_bionda_3771_bertolucci.webp",
     "type": "arandela",
     "price": "consultar",
@@ -120,6 +144,14 @@
     "qt": "1"
     },
     {
+    "imgCode": "spot_520200017_direct_light.webp",
+    "type": "spot",
+    "price": "consultar",
+    "marca": "direct light",
+    "description": "SPOT 520200017",
+    "qt": "1"
+    },
+    {
     "imgCode": "plafon_vidro_1_x100w_ella.webp",
     "type": "plafon",
     "price": "consultar",
@@ -144,6 +176,38 @@
     "qt": "1"
     },
     {
+    "imgCode": "arandela_bizz_branca_iluminar.webp",
+    "type": "arandela",
+    "price": "343,00",
+    "marca": "iluminar",
+    "description": "ARANDELA BIZZ BRANCA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "arandela_blade_iluminar.webp",
+    "type": "arandela",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "ARANDELA BLADE",
+    "qt": "1"
+    },
+    {
+    "imgCode": "arandela_lay_3953_01_iluminar.webp",
+    "type": "arandela",
+    "price": "1077,00",
+    "marca": "iluminar",
+    "description": "ARANDELA LAY 3953.01",
+    "qt": "1"
+    },
+    {
+    "imgCode": "arandela_lay_c_2_focos_led_iluminar.webp",
+    "type": "arandela",
+    "price": "1241,82",
+    "marca": "iluminar",
+    "description": "ARANDELA LAY C/2 FOCOS LED",
+    "qt": "1"
+    },
+    {
     "imgCode": "arandela_plafon_twenty_five_ar111_prata_iluminar.webp",
     "type": "arandela",
     "price": "1293,00",
@@ -160,12 +224,52 @@
     "qt": "1"
     },
     {
+    "imgCode": "arandela_risk_1_foco_aberto_fechado_iluminar.webp",
+    "type": "arandela",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "ARANDELA RISK 1 FOCO ABERTO/FECHADO",
+    "qt": "1"
+    },
+    {
+    "imgCode": "arandela_risk_2_focos_abertos_iluminar.webp",
+    "type": "arandela",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "ARANDELA RISK 2 FOCOS ABERTOS",
+    "qt": "1"
+    },
+    {
     "imgCode": "arandela_thales_cinza_2024_03_iluminar.webp",
     "type": "arandela",
     "price": "409,00",
     "marca": "iluminar",
     "description": "ARANDELA THALES CINZA 2024.03",
     "qt": "3"
+    },
+    {
+    "imgCode": "balizador_marron_1_x_100w_lapis_iluminar.webp",
+    "type": "balizador",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "BALIZADOR MARRON 1 X 100W LAPIS",
+    "qt": "1"
+    },
+    {
+    "imgCode": "balizador_pequeno_1x100w_lapis_iluminar.webp",
+    "type": "balizador",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "BALIZADOR PEQUENO 1X100W LAPIS",
+    "qt": "1"
+    },
+    {
+    "imgCode": "balizador_preto_1x16w_iluminar.webp",
+    "type": "balizador",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "BALIZADOR PRETO 1X16W",
+    "qt": "1"
     },
     {
     "imgCode": "balizador_trace_cinza_iluminar.webp",
@@ -181,6 +285,30 @@
     "price": "650,00",
     "marca": "iluminar",
     "description": "BALIZADOR TRACE PRETO",
+    "qt": "2"
+    },
+    {
+    "imgCode": "balizador_vertical_1x16w_preto_iluminar.webp",
+    "type": "balizador",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "BALIZADOR VERTICAL 1X16W PRETO",
+    "qt": "2"
+    },
+    {
+    "imgCode": "cub_pequeno_preto_iluminar.webp",
+    "type": "balizador",
+    "price": "522,00",
+    "marca": "iluminar",
+    "description": "CUB PEQUENO PRETO",
+    "qt": "9"
+    },
+    {
+    "imgCode": "cubo_preto_ar70_iluminar.webp",
+    "type": "balizador",
+    "price": "591,00",
+    "marca": "iluminar",
+    "description": "CUBO PRETO AR70",
     "qt": "2"
     },
     {
@@ -216,6 +344,14 @@
     "qt": "1"
     },
     {
+    "imgCode": "finco_solo_pequeno_art_preto_iluminar.webp",
+    "type": "finco",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "FINCO SOLO PEQUENO ART. PRETO",
+    "qt": "2"
+    },
+    {
     "imgCode": "luminaria_mesa_xl_branca_iluminar.webp",
     "type": "mesa",
     "price": "consultar",
@@ -238,6 +374,22 @@
     "marca": "iluminar",
     "description": "LUMINARIA MESA XL LARANJA",
     "qt": "1"
+    },
+    {
+    "imgCode": "osby_1731_01_iluminar.webp",
+    "type": "embutido",
+    "price": "335,00",
+    "marca": "iluminar",
+    "description": "OSBY 1731.01",
+    "qt": "4"
+    },
+    {
+    "imgCode": "pendente_blade_iluminar.webp",
+    "type": "pendente",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PENDENTE BLADE",
+    "qt": "3"
     },
     {
     "imgCode": "pendente_bob_tubo_c_acrilico_preto_iluminar.webp",
@@ -264,6 +416,22 @@
     "qt": "18"
     },
     {
+    "imgCode": "pendente_dommy_cristal_iluminar.webp",
+    "type": "pendente",
+    "price": "150,00",
+    "marca": "iluminar",
+    "description": "PENDENTE DOMMY CRISTAL",
+    "qt": "2"
+    },
+    {
+    "imgCode": "pendente_dommy_verde_iluminar.webp",
+    "type": "pendente",
+    "price": "150,00",
+    "marca": "iluminar",
+    "description": "PENDENTE DOMMY VERDE",
+    "qt": "1"
+    },
+    {
     "imgCode": "pendente_xl_branco_iluminar.webp",
     "type": "pendente",
     "price": "consultar",
@@ -285,6 +453,14 @@
     "price": "1500,00",
     "marca": "iluminar",
     "description": "PLAFON /ARANDELA C HASTE TWENTY FIVE PRETA 2XAR70",
+    "qt": "1"
+    },
+    {
+    "imgCode": "plafon_duo_c_4_focos_gu10_iluminar.webp",
+    "type": "plafon",
+    "price": "1653,00",
+    "marca": "iluminar",
+    "description": "PLAFON DUO C 4 FOCOS GU10",
     "qt": "1"
     },
     {
@@ -336,12 +512,68 @@
     "qt": "2"
     },
     {
+    "imgCode": "plafon_ice_branco_iluminar.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PLAFON ICE BRANCO",
+    "qt": "3"
+    },
+    {
+    "imgCode": "plafon_loop_fixo_50w_branco_iluminar.webp",
+    "type": "plafon",
+    "price": "83,00",
+    "marca": "iluminar",
+    "description": "PLAFON LOOP FIXO 50W BRANCO",
+    "qt": "2"
+    },
+    {
+    "imgCode": "plafon_loop_fixo_50w_preto_iluminar.webp",
+    "type": "plafon",
+    "price": "83,00",
+    "marca": "iluminar",
+    "description": "PLAFON LOOP FIXO 50W PRETO",
+    "qt": "25"
+    },
+    {
     "imgCode": "plafon_mambo_preto_iluminar.webp",
     "type": "plafon",
     "price": "350,00",
     "marca": "iluminar",
     "description": "PLAFON MAMBO PRETO",
     "qt": "1"
+    },
+    {
+    "imgCode": "plafon_plena_ar70_cinza_iluminar.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PLAFON PLENA AR70 CINZA",
+    "qt": "5"
+    },
+    {
+    "imgCode": "plafon_quadrado_duo_iluminar.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PLAFON QUADRADO DUO",
+    "qt": "1"
+    },
+    {
+    "imgCode": "plafon_step_3x50w_branco_iluminar.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PLAFON STEP 3X50W BRANCO",
+    "qt": "1"
+    },
+    {
+    "imgCode": "plafon_step_4211_01_iluminar.webp",
+    "type": "plafon",
+    "price": "500,00",
+    "marca": "iluminar",
+    "description": "PLAFON STEP 4211.01",
+    "qt": "9"
     },
     {
     "imgCode": "plafon_step_4211_02_iluminar.webp",
@@ -368,24 +600,56 @@
     "qt": "1"
     },
     {
+    "imgCode": "plafon_web_embutido_10x10_iluminar.webp",
+    "type": "plafon",
+    "price": "389,00",
+    "marca": "iluminar",
+    "description": "PLAFON WEB EMBUTIDO 10X10",
+    "qt": "4"
+    },
+    {
     "imgCode": "solo_embutido_art_led_preto_iluminar.webp",
-    "type": 0,
+    "type": "piso",
     "price": "consultar",
     "marca": "iluminar",
     "description": "SOLO EMBUTIDO ART. LED PRETO",
     "qt": "5"
     },
     {
+    "imgCode": "spot_cross_5605_01_iluminar.webp",
+    "type": "spot",
+    "price": "804,00",
+    "marca": "iluminar",
+    "description": "SPOT CROSS 5605.01",
+    "qt": "1"
+    },
+    {
+    "imgCode": "spot_flash_ar70_cinza_iluminar.webp",
+    "type": "spot",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "SPOT FLASH AR70 CINZA",
+    "qt": "3"
+    },
+    {
     "imgCode": "spot_max_branco_par_30_iluminar.webp",
-    "type": "projetor",
+    "type": "spot",
     "price": "596,00",
     "marca": "iluminar",
     "description": "SPOT MAX BRANCO PAR 30",
     "qt": "1"
     },
     {
+    "imgCode": "spot_max_branco_lampada_led.webp",
+    "type": "spot",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "SPOT MAX BRANCO LAMPADA LED",
+    "qt": "1"
+    },
+    {
     "imgCode": "spot_tube_cinza_iluminar.webp",
-    "type": "projetor",
+    "type": "spot",
     "price": "1452,00",
     "marca": "iluminar",
     "description": "SPOT TUBE CINZA",
@@ -393,7 +657,7 @@
     },
     {
     "imgCode": "spot_twenty_five_1558_01_iluminar.webp",
-    "type": "projetor",
+    "type": "spot",
     "price": "512,00",
     "marca": "iluminar",
     "description": "SPOT TWENTY FIVE 1558.01",
@@ -401,11 +665,35 @@
     },
     {
     "imgCode": "spot_twenty_five_ar111_prata_iluminar.webp",
-    "type": "projetor",
+    "type": "spot",
     "price": "1475,00",
     "marca": "iluminar",
     "description": "SPOT TWENTY FIVE AR111 PRATA",
     "qt": "1"
+    },
+    {
+    "imgCode": "spot_twist_led_preto_iluminar.webp",
+    "type": "spot",
+    "price": "1123,13",
+    "marca": "iluminar",
+    "description": "SPOT TWIST LED PRETO",
+    "qt": "5"
+    },
+    {
+    "imgCode": "spot_wing_4012_02_iluminar.webp",
+    "type": "spot",
+    "price": "363,74",
+    "marca": "iluminar",
+    "description": "SPOT WING 4012.02",
+    "qt": "4"
+    },
+    {
+    "imgCode": "web_pix_1738_01_iluminar.webp",
+    "type": "embutido",
+    "price": "322,00",
+    "marca": "iluminar",
+    "description": "WEB PIX 1738.01",
+    "qt": "5"
     },
     {
     "imgCode": "arandela_ingo_maurer.webp",
@@ -616,6 +904,14 @@
     "qt": "1"
     },
     {
+    "imgCode": "embutido_quadrado_gu10_50w_revoluz.webp",
+    "type": "embutido",
+    "price": "consultar",
+    "marca": "revoluz",
+    "description": "EMBUTIDO QUADRADO GU10 50W",
+    "qt": "4"
+    },
+    {
     "imgCode": "pendente_preto_madeira_secto.webp",
     "type": "pendente",
     "price": "consultar",
@@ -645,6 +941,14 @@
     "price": "3500,00",
     "marca": "vibia",
     "description": "LUMINARIA BRISA",
+    "qt": "1"
+    },
+    {
+    "imgCode": "arandela_c_grelha_5404260102.webp",
+    "type": "arandela",
+    "price": "consultar",
+    "marca": "",
+    "description": "ARANDELA C / GRELHA 5404260102",
     "qt": "1"
     },
     {
@@ -688,6 +992,22 @@
     "qt": "2"
     },
     {
+    "imgCode": "finco_521100013_direct_light.webp",
+    "type": "finco",
+    "price": "consultar",
+    "marca": "direct light",
+    "description": "FINCO  521100013",
+    "qt": "1"
+    },
+    {
+    "imgCode": "painel_led_slim_quadrado_abalux.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "abalux",
+    "description": "PAINEL LED SLIM QUADRADO",
+    "qt": "1"
+    },
+    {
     "imgCode": "pendente_cimento_medio_4661.webp",
     "type": "pendente",
     "price": "consultar",
@@ -702,5 +1022,37 @@
     "marca": "",
     "description": "PENDENTE CIMENTO PEQUENO 4660",
     "qt": "2"
+    },
+    {
+    "imgCode": "plafon_polar_branco_iluminar.webp",
+    "type": "plafon",
+    "price": "consultar",
+    "marca": "iluminar",
+    "description": "PLAFON POLAR BRANCO",
+    "qt": "1"
+    },
+    {
+    "imgCode": "projetor_raggio_4.webp",
+    "type": "projetor",
+    "price": "consultar",
+    "marca": "",
+    "description": "PROJETOR RAGGIO 4",
+    "qt": "2"
+    },
+    {
+    "imgCode": "projetor_zenith.webp",
+    "type": "projetor",
+    "price": "consultar",
+    "marca": "",
+    "description": "PROJETOR ZENITH",
+    "qt": "2"
+    },
+    {
+    "imgCode": "projetor_zenith_c_tomada.webp",
+    "type": "projetor",
+    "price": "consultar",
+    "marca": "",
+    "description": "PROJETOR ZENITH C/ TOMADA",
+    "qt": "1"
     }
     ]
