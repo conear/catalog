@@ -20,7 +20,7 @@ export const CatalogoApp = () => {
   
 
   if (!produto) {
-    const types = [...new Set(produtos.map((produto) => produto.type))];
+    const types = [...new Set(produtos.map((produto) => produto.type).sort())];
    return <ListTypes types={types} produtos={produtos} setProduto={setProduto} />;
   }
 
