@@ -610,7 +610,7 @@
     {
     "imgCode": "solo_embutido_art_led_preto_iluminar.webp",
     "type": "piso",
-    "price": "consultar",
+    "price": "450,00",
     "marca": "iluminar",
     "description": "SOLO EMBUTIDO ART. LED PRETO",
     "qt": "5"
