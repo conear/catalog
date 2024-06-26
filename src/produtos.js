@@ -304,8 +304,8 @@ export const produtos = [
     imgCode: "2631",
     type: "arandela",
     price: "consultar",
-    marca: "?",
-    description: "arandela ",
+    marca: "VIBIA",
+    description: "arandela Swing ",
   },
   {
     imgCode: "2632",
