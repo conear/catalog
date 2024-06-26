@@ -6,7 +6,7 @@ export const ListTypes = (props) => {
 const { types, produtos, setProduto }=props;
 //console.log(setProduto);
   return types.map((type) => {
-    const itens = (tipo) => produtos.filter((p) => p.type === tipo);
+    const itens = (tipo) => produtos.filter((p) => p.type === tipo).sort((a,b) => a.marca.localeCompare(b.marca));
     return (
       <div key={type} >
         {type}
