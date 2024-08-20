@@ -888,14 +888,6 @@
     "qt": "1"
     },
     {
-    "imgCode": "pendente_notte_pe_s9_preto_prandina.webp",
-    "type": "pendente",
-    "price": "8500,00",
-    "marca": "prandina",
-    "description": "PENDENTE NOTTE PE S9 PRETO",
-    "qt": "1"
-    },
-    {
     "imgCode": "pendente_notte_s3_blackgold_leaf_s_canopla_prandina.webp",
     "type": "pendente",
     "price": "4500,00",
