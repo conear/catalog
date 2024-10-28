@@ -354,7 +354,7 @@
     {
     "imgCode": "luminaria_mesa_xl_branca_iluminar.webp",
     "type": "mesa",
-    "price": "consultar",
+    "price": "1500,00",
     "marca": "iluminar",
     "description": "LUMINARIA MESA XL BRANCA",
     "qt": "1"
@@ -362,7 +362,7 @@
     {
     "imgCode": "luminaria_mesa_xl_bronze_iluminar.webp",
     "type": "mesa",
-    "price": "consultar",
+    "price": "1500,00",
     "marca": "iluminar",
     "description": "LUMINARIA MESA XL BRONZE",
     "qt": "1"
@@ -370,7 +370,7 @@
     {
     "imgCode": "luminaria_mesa_xl_laranja_iluminar.webp",
     "type": "mesa",
-    "price": "consultar",
+    "price": "1500,00",
     "marca": "iluminar",
     "description": "LUMINARIA MESA XL LARANJA",
     "qt": "1"
@@ -443,7 +443,7 @@
     "imgCode": "pendente_xl_cobre_c_acrilico_iluminar.webp",
     "type": "pendente",
     "price": "consultar",
-    "marca": "iluminar",
+    "marca": "1400,00",
     "description": "PENDENTE XL COBRE C ACRILICO",
     "qt": "3"
     },
